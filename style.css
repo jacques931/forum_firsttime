@@ -1,0 +1,12 @@
+.title-acceuil {
+    color: gray;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.title-acceuil:hover {
+    color: darkgray;
+    text-decoration: underline;
+}
